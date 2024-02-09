@@ -7,7 +7,7 @@
 
 <test name="Jenkins Test">
 		<classes>
-			<class name="demowebShop_Pages.PS4_ExtentReportr"></class>
+			<class name="Selenium_S2_ExtentJenkins_PracticeExcercises.PS4_ExtentReportr"></class>
 		</classes>
 </test>
 

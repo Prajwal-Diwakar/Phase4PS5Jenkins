@@ -2,56 +2,56 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-09T23:32:53 IST" name="Default suite" finished-at="2024-02-09T23:33:37 IST" duration-ms="44398">
+  <suite started-at="2024-02-09T23:44:50 IST" name="eCom Webapp Test Suite" finished-at="2024-02-09T23:45:38 IST" duration-ms="47776">
     <groups>
     </groups>
-    <test started-at="2024-02-09T23:32:53 IST" name="Default test" finished-at="2024-02-09T23:33:37 IST" duration-ms="44398">
+    <test started-at="2024-02-09T23:44:50 IST" name="Jenkins Test" finished-at="2024-02-09T23:45:38 IST" duration-ms="47776">
       <class name="Selenium_S2_ExtentJenkins_PracticeExcercises.PS4_ExtentReportr">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Selenium_S2_ExtentJenkins_PracticeExcercises.PS4_ExtentReportr@7b2bbc3]" started-at="2024-02-09T23:32:53 IST" name="beforeTest" finished-at="2024-02-09T23:32:54 IST" duration-ms="584" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Selenium_S2_ExtentJenkins_PracticeExcercises.PS4_ExtentReportr@18078bef]" started-at="2024-02-09T23:44:50 IST" name="beforeTest" finished-at="2024-02-09T23:44:51 IST" duration-ms="484" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method is-config="true" signature="beforemethod()[pri:0, instance:Selenium_S2_ExtentJenkins_PracticeExcercises.PS4_ExtentReportr@7b2bbc3]" started-at="2024-02-09T23:32:54 IST" name="beforemethod" finished-at="2024-02-09T23:33:00 IST" duration-ms="6491" status="PASS">
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:Selenium_S2_ExtentJenkins_PracticeExcercises.PS4_ExtentReportr@18078bef]" started-at="2024-02-09T23:44:51 IST" name="beforemethod" finished-at="2024-02-09T23:44:57 IST" duration-ms="6802" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforemethod -->
-        <test-method signature="testLogin1()[pri:0, instance:Selenium_S2_ExtentJenkins_PracticeExcercises.PS4_ExtentReportr@7b2bbc3]" started-at="2024-02-09T23:33:00 IST" name="testLogin1" finished-at="2024-02-09T23:33:09 IST" duration-ms="8697" status="PASS">
+        <test-method signature="testLogin1()[pri:0, instance:Selenium_S2_ExtentJenkins_PracticeExcercises.PS4_ExtentReportr@18078bef]" started-at="2024-02-09T23:44:57 IST" name="testLogin1" finished-at="2024-02-09T23:45:06 IST" duration-ms="8625" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin1 -->
-        <test-method is-config="true" signature="aftermethod()[pri:0, instance:Selenium_S2_ExtentJenkins_PracticeExcercises.PS4_ExtentReportr@7b2bbc3]" started-at="2024-02-09T23:33:09 IST" name="aftermethod" finished-at="2024-02-09T23:33:09 IST" duration-ms="657" status="PASS">
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:Selenium_S2_ExtentJenkins_PracticeExcercises.PS4_ExtentReportr@18078bef]" started-at="2024-02-09T23:45:06 IST" name="aftermethod" finished-at="2024-02-09T23:45:07 IST" duration-ms="753" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftermethod -->
-        <test-method is-config="true" signature="beforemethod()[pri:0, instance:Selenium_S2_ExtentJenkins_PracticeExcercises.PS4_ExtentReportr@7b2bbc3]" started-at="2024-02-09T23:33:09 IST" name="beforemethod" finished-at="2024-02-09T23:33:14 IST" duration-ms="4090" status="PASS">
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:Selenium_S2_ExtentJenkins_PracticeExcercises.PS4_ExtentReportr@18078bef]" started-at="2024-02-09T23:45:07 IST" name="beforemethod" finished-at="2024-02-09T23:45:11 IST" duration-ms="4270" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforemethod -->
-        <test-method signature="testLogin2()[pri:0, instance:Selenium_S2_ExtentJenkins_PracticeExcercises.PS4_ExtentReportr@7b2bbc3]" started-at="2024-02-09T23:33:14 IST" name="testLogin2" finished-at="2024-02-09T23:33:22 IST" duration-ms="8759" status="PASS">
+        <test-method signature="testLogin2()[pri:0, instance:Selenium_S2_ExtentJenkins_PracticeExcercises.PS4_ExtentReportr@18078bef]" started-at="2024-02-09T23:45:11 IST" name="testLogin2" finished-at="2024-02-09T23:45:17 IST" duration-ms="6360" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin2 -->
-        <test-method is-config="true" signature="aftermethod()[pri:0, instance:Selenium_S2_ExtentJenkins_PracticeExcercises.PS4_ExtentReportr@7b2bbc3]" started-at="2024-02-09T23:33:22 IST" name="aftermethod" finished-at="2024-02-09T23:33:23 IST" duration-ms="890" status="PASS">
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:Selenium_S2_ExtentJenkins_PracticeExcercises.PS4_ExtentReportr@18078bef]" started-at="2024-02-09T23:45:17 IST" name="aftermethod" finished-at="2024-02-09T23:45:20 IST" duration-ms="2249" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftermethod -->
-        <test-method is-config="true" signature="beforemethod()[pri:0, instance:Selenium_S2_ExtentJenkins_PracticeExcercises.PS4_ExtentReportr@7b2bbc3]" started-at="2024-02-09T23:33:23 IST" name="beforemethod" finished-at="2024-02-09T23:33:27 IST" duration-ms="3899" status="PASS">
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:Selenium_S2_ExtentJenkins_PracticeExcercises.PS4_ExtentReportr@18078bef]" started-at="2024-02-09T23:45:20 IST" name="beforemethod" finished-at="2024-02-09T23:45:28 IST" duration-ms="7931" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforemethod -->
-        <test-method signature="testLogin3()[pri:0, instance:Selenium_S2_ExtentJenkins_PracticeExcercises.PS4_ExtentReportr@7b2bbc3]" started-at="2024-02-09T23:33:27 IST" name="testLogin3" finished-at="2024-02-09T23:33:36 IST" duration-ms="8563" status="PASS">
+        <test-method signature="testLogin3()[pri:0, instance:Selenium_S2_ExtentJenkins_PracticeExcercises.PS4_ExtentReportr@18078bef]" started-at="2024-02-09T23:45:28 IST" name="testLogin3" finished-at="2024-02-09T23:45:36 IST" duration-ms="8536" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin3 -->
-        <test-method is-config="true" signature="aftermethod()[pri:0, instance:Selenium_S2_ExtentJenkins_PracticeExcercises.PS4_ExtentReportr@7b2bbc3]" started-at="2024-02-09T23:33:36 IST" name="aftermethod" finished-at="2024-02-09T23:33:36 IST" duration-ms="769" status="PASS">
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:Selenium_S2_ExtentJenkins_PracticeExcercises.PS4_ExtentReportr@18078bef]" started-at="2024-02-09T23:45:36 IST" name="aftermethod" finished-at="2024-02-09T23:45:37 IST" duration-ms="650" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftermethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:Selenium_S2_ExtentJenkins_PracticeExcercises.PS4_ExtentReportr@7b2bbc3]" started-at="2024-02-09T23:33:36 IST" name="afterClass" finished-at="2024-02-09T23:33:37 IST" duration-ms="880" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Selenium_S2_ExtentJenkins_PracticeExcercises.PS4_ExtentReportr@18078bef]" started-at="2024-02-09T23:45:37 IST" name="afterClass" finished-at="2024-02-09T23:45:38 IST" duration-ms="958" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- Selenium_S2_ExtentJenkins_PracticeExcercises.PS4_ExtentReportr -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Jenkins Test -->
+  </suite> <!-- eCom Webapp Test Suite -->
 </testng-results>
