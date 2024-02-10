@@ -5,6 +5,7 @@ import java.net.UnknownHostException;
 import java.time.Duration;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.ITestContext;
@@ -66,8 +67,8 @@ public class PS4_ExtentReportr{
 	@BeforeMethod
 	public void beforemethod() {
 		
-		WebDriverManager.chromedriver().setup();
-        driver = new ChromeDriver();
+		WebDriverManager.firefoxdriver().setup();
+        driver = new FirefoxDriver();
 		driver.get("https://demowebshop.tricentis.com/login");
 		
 		//driver.manage().window().maximize();

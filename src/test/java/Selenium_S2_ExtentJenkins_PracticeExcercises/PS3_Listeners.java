@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 
 public class PS3_Listeners {
 	
-	static WebDriver driver;
+	 WebDriver driver;
 	
 	public PS3_Listeners(WebDriver driver) {
 			this.driver=driver;
