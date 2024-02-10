@@ -73,7 +73,13 @@
 			<version>5.2.5</version>
 		</dependency>
 		
-		
+		<dependency>
+    <groupId>com.aventstack</groupId>
+    <artifactId>extentreports</artifactId>
+    <version>4.1.5</version> <!-- Adjust the version number as needed -->
+    <scope>test</scope> <!-- This is likely used for test purposes -->
+</dependency>
+
 		
 		<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
 	<dependency>

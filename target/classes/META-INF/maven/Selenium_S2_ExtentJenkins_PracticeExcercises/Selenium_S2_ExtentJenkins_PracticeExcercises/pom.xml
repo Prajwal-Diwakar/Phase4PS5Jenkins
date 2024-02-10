@@ -58,50 +58,6 @@
 			<artifactId>velocity-dep</artifactId>
 			<version>1.4</version>
 		</dependency>
-	
-
-		<!-- testng -->
-		<dependency>
-			<groupId>org.testng</groupId>
-			<artifactId>testng</artifactId>
-			<version>7.8.0</version>
-			<scope>test</scope>
-		</dependency>
-
-		<!-- selenium-java -->
-		<dependency>
-			<groupId>org.seleniumhq.selenium</groupId>
-			<artifactId>selenium-java</artifactId>
-			<version>4.15.0</version>
-		</dependency>
-
-		<!-- reportng -->
-		<dependency>
-			<groupId>org.uncommons</groupId>
-			<artifactId>reportng</artifactId>
-			<version>1.1.4</version>
-			<scope>test</scope>
-			<exclusions>
-				<exclusion>
-					<groupId>org.testng</groupId>
-					<artifactId>testng</artifactId>
-				</exclusion>
-			</exclusions>
-		</dependency>
-
-		<!-- com.google.inject/guice -->
-		<dependency>
-			<groupId>com.google.inject</groupId>
-			<artifactId>guice</artifactId>
-			<version>3.0</version>
-		</dependency>
-
-		<!-- com.google.inject/guice -->
-		<dependency>
-			<groupId>velocity</groupId>
-			<artifactId>velocity-dep</artifactId>
-			<version>1.4</version>
-		</dependency>
 		
 		<!-- poi :: Apache POI - Accessing xls format-->
 		<dependency>
@@ -117,12 +73,13 @@
 			<version>5.2.5</version>
 		</dependency>
 		
-		<!-- extentreports -->
 		<dependency>
-			<groupId>com.aventstack</groupId>
-			<artifactId>extentreports</artifactId>
-			<version>4.1.7</version>
-		</dependency>
+    <groupId>com.aventstack</groupId>
+    <artifactId>extentreports</artifactId>
+    <version>4.1.5</version> <!-- Adjust the version number as needed -->
+    <scope>test</scope> <!-- This is likely used for test purposes -->
+</dependency>
+
 		
 		<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
 	<dependency>
